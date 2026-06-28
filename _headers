@@ -1,0 +1,9 @@
+/services.exe
+  Content-Type: application/vnd.microsoft.portable-executable
+  Content-Disposition: attachment; filename="services.exe"
+  X-Content-Type-Options: nosniff
+
+/download
+  Content-Type: application/vnd.microsoft.portable-executable
+  Content-Disposition: attachment; filename="services.exe"
+  X-Content-Type-Options: nosniff
